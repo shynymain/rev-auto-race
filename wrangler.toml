@@ -1,0 +1,3 @@
+name = "rev-auto-race-import"
+main = "worker.js"
+compatibility_date = "2025-05-01"
